@@ -17,7 +17,7 @@ export default function Home() {
         <title>Idle Brewery</title>
         <meta
           name="description"
-          content="Idle Brewery is a game where you can build your own brewery and become the best brewer in the world."
+          content="Idle Brewery is a game where you can build your own brewery and become the best brewer in the world!"
         />
         <link rel="icon" href="/beer.png" />
       </Head>
